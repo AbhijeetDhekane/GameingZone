@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(300deg,  #03001e 0%,#7303c0 0%,#82e5cc 70%, #fdeff9 100%);
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 95px;
+}
+nav{
+    background: linear-gradient(340deg,#ec38bc 50%, #fdeff9 140%);
+   
+}
+footer{
+    justify-content: center;
+    text-align: center;
+    text-decoration: solid;
+    color: whitesmoke;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
