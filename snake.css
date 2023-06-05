@@ -1,14 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-  }
-  html{
-    background-image: url("background.jpg");
-    background-size: cover;
-
-    background-repeat: no-repeat;
-    height: 100vh;
-  }
+body{
+    background: linear-gradient(300deg,  #03001e 0%,#7303c0 0%,#82e5cc 70%, #fdeff9 100%);
+}
 .container{
     justify-content: center;
     text-align: center;
